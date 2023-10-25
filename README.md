@@ -1,21 +1,41 @@
-# Case-B4DM755
+## Project Portfolio Entry: Digital Forensics Case B4DM755
 
-**Suspect:** <br> 
-William S. McClean (William Super McClean)
+### Introduction
+This project aimed to provide hands-on experience in digital forensics, focusing on evidence preservation, disk imaging, and artifact analysis. It involved a fictional case, Case B4DM755, which required participants to apply their digital forensics knowledge in a practical context.
 
-**Nationality:** <br>
-British
+### Project Description
+The project encompassed a detailed simulation of a crime scenario involving corporate espionage and theft of trade secrets. Participants were tasked with acquiring digital artefacts and evidence for use in a court of law. The project aimed to teach the importance of proper evidence handling and the use of digital forensics tools.
 
-**Charges Pressed / Accused Crimes:** <br>
-- Corporate espionage
-- Theft of trade secrets
-- Law enforcement officer writing down the case details.
+### My Role
+As a participant in this project, my role was that of a DFIR First Responder. I was responsible for ensuring the appropriate acquisition of digital artefacts and evidence, including creating forensic disk images, maintaining the chain of custody, and preserving the integrity of digital evidence.
 
-## Scenario
-Occasionally, the law enforcement agency I work for receives "intelligence reports" about different cases. A trusted informant, who has connections to an international crime syndicate, contacted my supervisor about William S. McClean from Case #B4DM755.
+### Tools and Technologies Used
+- FTK Imager for disk imaging and analysis
+- Write-blocking device for data protection
+- Virtual machine for hands-on practice
 
-The informant provided information about the suspect's whereabouts in Metro Manila, Philippines, which is currently at large, and a transaction that will happen today with a local gang member. They also knew the exact location of the meetup and that the suspect would have incriminating materials at the time.
+### Challenges Faced
+The project presented challenges related to time constraints, the potential tampering of evidence, and the need to accurately identify and document relevant artefacts. Additionally, the late arrival at the crime scene posed difficulties in evidence preservation.
 
-As a Forensics Lab Analyst, I analyse the artefacts from crime scenes. The law enforcement agency prepared for the operation by obtaining proper search authority and assigning me as DFIR (Digital Forensics & Incident Response) First Responder to ensure the appropriate acquisition of digital artefacts and evidence for examination at the Forensics Lab, and eventually for use in litigation.
+### Solutions Implemented
+To address these challenges, I followed a structured process for evidence preservation, including chain of custody procedures. I used FTK Imager to create forensic disk images, ensuring data integrity. Additionally, I documented and labelled all artefacts meticulously.
 
-The court issued a search warrant on the same day, allowing law enforcement officers to investigate the suspect and his place of residence based on the informant's tip.
+### Results and Achievements
+Through this project, I gained practical experience in digital forensics, including the successful creation of forensic disk images and the proper preservation of digital evidence. This hands-on experience improved my understanding of the digital forensics process.
+
+### Lessons Learned
+I learned the importance of thorough documentation, the significance of maintaining the chain of custody, and the value of digital forensics tools like FTK Imager in preserving evidence for legal proceedings.
+
+### Applicable Screenshots or Visuals
+- ![Screenshot: FTK Imager User Interface](link-to-screenshot)
+- ![Screenshot: Chain of Custody Documentation](link-to-screenshot)
+
+### References and Resources
+- FTK Imager user documentation
+- Digital forensics textbooks and online resources
+
+### Future Plans
+In the future, I plan to expand my skills in digital forensics by working on more complex case scenarios and exploring advanced forensic tools and techniques.
+
+### Conclusion
+The Digital Forensics Case B4DM755 project provided valuable practical experience in evidence preservation and analysis. It underscores my commitment to honing my digital forensics skills and aligns with my career goal of working as a cybersecurity professional.
