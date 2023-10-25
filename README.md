@@ -27,8 +27,8 @@ Through this project, I gained practical experience in digital forensics, includ
 I learned the importance of thorough documentation, the significance of maintaining the chain of custody, and the value of digital forensics tools like FTK Imager in preserving evidence for legal proceedings.
 
 ### Applicable Screenshots or Visuals
-- ![Screenshot: FTK Imager User Interface](link-to-screenshot)
-- ![Visual: Chain of Custody Documentation](https://docs.google.com/document/d/10Za76F7TfW61e0Pj4w0nmbixXMbrp0V5afaq5S_LrLQ/edit?usp=sharing)
+- [Screenshot: FTK Imager User Interface](link-to-screenshot)
+- [Visual: Chain of Custody Documentation](https://docs.google.com/document/d/10Za76F7TfW61e0Pj4w0nmbixXMbrp0V5afaq5S_LrLQ/edit?usp=sharing)
 
 ### References and Resources
 - FTK Imager user documentation
