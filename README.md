@@ -1,4 +1,4 @@
-## Project Portfolio Entry: Digital Forensics Case B4DM755
+## Digital Forensics Case B4DM755
 
 ### Introduction
 This project aimed to provide hands-on experience in digital forensics, focusing on evidence preservation, disk imaging, and artefact analysis. It involved a fictional case, Case B4DM755, which required participants to apply their digital forensics knowledge in a practical context.
