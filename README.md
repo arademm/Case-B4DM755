@@ -28,7 +28,7 @@ I learned the importance of thorough documentation, the significance of maintain
 
 ### Applicable Screenshots or Visuals
 - ![Screenshot: FTK Imager User Interface](link-to-screenshot)
-- ![Screenshot: Chain of Custody Documentation](link-to-screenshot)
+- ![Visual: Chain of Custody Documentation](https://docs.google.com/document/d/10Za76F7TfW61e0Pj4w0nmbixXMbrp0V5afaq5S_LrLQ/edit?usp=sharing)
 
 ### References and Resources
 - FTK Imager user documentation
